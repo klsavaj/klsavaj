@@ -31,35 +31,40 @@
 - **Version Control:** Git
 - **Virtualization:** Vagrant
 
-#### **Cloud Platforms:**
-- **AWS:** EC2, S3, Lambda, CloudFormation, RDS, CloudWatch
-- **Microsoft Azure:** Azure DevOps, Virtual Machines
-- **Google Cloud Platform (GCP):** Compute Engine, Kubernetes Engine
-
-#### **Databases:**
-- MySQL, PostgreSQL, MongoDB, Microsoft SQL Server
-
 #### **Programming Languages:**
 - Python, JavaScript, Shell Scripting, Java, C++
 
 #### **Other Technologies:**
 - React, Node.js, Express.js
 
----
+#### **Cloud Platforms:**
 
-### 🛠️ Projects and Achievements
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> AWS
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> Microsoft Azure
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> Google Cloud Platform
+  </a>
+</p>
 
-- **Automated CI/CD Pipeline for Microservices:**
-  - Designed a robust Jenkins pipeline to automate the build, test, and deployment of microservices to Kubernetes.
+#### **Databases:**
 
-- **AWS Cost Optimization:**
-  - Reduced infrastructure costs by 20% by leveraging AWS auto-scaling and monitoring solutions.
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySQL
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> PostgreSQL
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB
+  </a>
+</p>
 
-- **Kubernetes Monitoring and Logging:**
-  - Implemented Prometheus and Grafana for real-time monitoring and set up ELK for centralized logging.
-
-- **Database Automation:**
-  - Automated MySQL backups and restored testing workflows using Python and Bash scripting.
 
 ---
 
@@ -79,7 +84,7 @@
 
 ---
 
-### 🔧 Languages and Tools
+### 🔧 Tools
 
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -87,9 +92,6 @@
   </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://docker.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -103,6 +105,7 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  
 </p>
 
 ---
