@@ -15,9 +15,9 @@
 
 - 💬 **Ask Me About:** Jenkins, Kubernetes, AWS, Automation, Docker, Bash Scripting, and Database Administration.
 
-- 📫 **Reach Me At:** krunalsavaj3@gmail.com
+- 📫 **Reach Me At:** krunalsavaj26@gmail.com
 
-- ⚡ **Fun Fact:** When I am not solving tech challenges, I enjoy playing badminton and volleyball professionally.
+- ⚡ **Fun Fact:** When I am not solving tech challenges, I enjoy playing badminton and volleyball.
 
 ---
 
